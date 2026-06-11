@@ -43,12 +43,9 @@ Develop a basic to-do app that enables a user to add and maintain tasks. Allow u
 5. Use the sidebar to filter tasks by view, priority, or list
 6. Create new lists using the **+ input** in the sidebar under "My Lists"
 
-
 ## Author
 
 **Vaanya Mehra**
 Intern at SkillCraft Technology
 
----
-
-*This project was built as Task 3 of the Web Development Internship at SkillCraft Technology.*
+*This project was built as Task 4 of the Web Development Internship at SkillCraft Technology.*
